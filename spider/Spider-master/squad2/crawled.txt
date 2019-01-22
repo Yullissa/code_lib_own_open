@@ -1,0 +1,433 @@
+https://rajpurkar.github.io/SQuAD-explorer/
+https://rajpurkar.github.io/SQuAD-explorer/dataset/dev-v2.0.json
+https://rajpurkar.github.io/SQuAD-explorer/dataset/train-v2.0.json
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/1973_oil_crisis.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/1973_oil_crisis.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/1973_oil_crisis.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/1973_oil_crisis.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/1973_oil_crisis.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/1973_oil_crisis.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Amazon_rainforest.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Amazon_rainforest.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Amazon_rainforest.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Amazon_rainforest.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Amazon_rainforest.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Amazon_rainforest.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/American_Broadcasting_Company.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/American_Broadcasting_Company.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/American_Broadcasting_Company.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/American_Broadcasting_Company.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/American_Broadcasting_Company.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/American_Broadcasting_Company.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Apollo_program.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Apollo_program.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Apollo_program.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Apollo_program.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Apollo_program.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Apollo_program.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Black_Death.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Black_Death.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Black_Death.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Black_Death.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Black_Death.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Black_Death.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Chloroplast.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Chloroplast.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Chloroplast.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Chloroplast.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Chloroplast.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Chloroplast.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Civil_disobedience.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Civil_disobedience.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Civil_disobedience.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Civil_disobedience.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Civil_disobedience.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Civil_disobedience.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Computational_complexity_theory.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Computational_complexity_theory.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Computational_complexity_theory.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Computational_complexity_theory.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Computational_complexity_theory.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Computational_complexity_theory.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Construction.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Construction.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Construction.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Construction.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Construction.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Construction.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Ctenophora.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Ctenophora.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Ctenophora.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Ctenophora.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Ctenophora.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Ctenophora.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Doctor_Who.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Doctor_Who.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Doctor_Who.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Doctor_Who.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Doctor_Who.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Doctor_Who.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Economic_inequality.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Economic_inequality.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Economic_inequality.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Economic_inequality.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Economic_inequality.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Economic_inequality.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/European_Union_law.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/European_Union_law.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/European_Union_law.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/European_Union_law.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/European_Union_law.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/European_Union_law.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Force.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Force.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Force.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Force.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Force.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Force.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/French_and_Indian_War.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/French_and_Indian_War.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/French_and_Indian_War.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/French_and_Indian_War.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/French_and_Indian_War.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/French_and_Indian_War.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Fresno,_California.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Fresno,_California.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Fresno,_California.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Fresno,_California.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Fresno,_California.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Fresno,_California.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Genghis_Khan.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Genghis_Khan.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Genghis_Khan.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Genghis_Khan.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Genghis_Khan.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Genghis_Khan.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Geology.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Geology.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Geology.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Geology.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Geology.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Geology.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Harvard_University.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Harvard_University.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Harvard_University.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Harvard_University.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Harvard_University.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Harvard_University.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Huguenot.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Huguenot.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Huguenot.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Huguenot.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Huguenot.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Huguenot.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Immune_system.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Immune_system.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Immune_system.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Immune_system.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Immune_system.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Immune_system.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Imperialism.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Imperialism.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Imperialism.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Imperialism.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Imperialism.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Imperialism.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Intergovernmental_Panel_on_Climate_Change.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Intergovernmental_Panel_on_Climate_Change.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Intergovernmental_Panel_on_Climate_Change.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Intergovernmental_Panel_on_Climate_Change.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Intergovernmental_Panel_on_Climate_Change.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Intergovernmental_Panel_on_Climate_Change.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Islamism.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Islamism.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Islamism.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Islamism.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Islamism.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Islamism.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Jacksonville,_Florida.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Jacksonville,_Florida.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Jacksonville,_Florida.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Jacksonville,_Florida.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Jacksonville,_Florida.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Jacksonville,_Florida.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Kenya.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Kenya.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Kenya.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Kenya.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Kenya.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Kenya.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Martin_Luther.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Martin_Luther.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Martin_Luther.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Martin_Luther.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Martin_Luther.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Martin_Luther.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Newcastle_upon_Tyne.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Newcastle_upon_Tyne.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Newcastle_upon_Tyne.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Newcastle_upon_Tyne.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Newcastle_upon_Tyne.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Newcastle_upon_Tyne.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Nikola_Tesla.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Nikola_Tesla.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Nikola_Tesla.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Nikola_Tesla.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Nikola_Tesla.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Nikola_Tesla.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Normans.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Normans.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Normans.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Normans.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Normans.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Normans.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Oxygen.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Oxygen.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Oxygen.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Oxygen.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Oxygen.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Oxygen.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Packet_switching.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Packet_switching.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Packet_switching.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Packet_switching.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Packet_switching.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Packet_switching.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Pharmacy.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Pharmacy.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Pharmacy.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Pharmacy.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Pharmacy.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Pharmacy.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Prime_number.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Prime_number.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Prime_number.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Prime_number.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Prime_number.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Prime_number.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Private_school.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Private_school.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Private_school.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Private_school.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Private_school.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Private_school.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Rhine.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Rhine.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Rhine.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Rhine.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Rhine.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Rhine.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Scottish_Parliament.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Scottish_Parliament.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Scottish_Parliament.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Scottish_Parliament.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Scottish_Parliament.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Scottish_Parliament.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Sky_(United_Kingdom).html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Sky_(United_Kingdom).html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Sky_(United_Kingdom).html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Sky_(United_Kingdom).html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Sky_(United_Kingdom).html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Sky_(United_Kingdom).html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Southern_California.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Southern_California.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Southern_California.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Southern_California.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Southern_California.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Southern_California.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Steam_engine.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Steam_engine.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Steam_engine.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Steam_engine.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Steam_engine.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Steam_engine.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Super_Bowl_50.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Super_Bowl_50.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Super_Bowl_50.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Super_Bowl_50.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Super_Bowl_50.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Super_Bowl_50.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Teacher.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Teacher.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Teacher.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Teacher.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Teacher.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Teacher.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/United_Methodist_Church.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/United_Methodist_Church.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/United_Methodist_Church.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/United_Methodist_Church.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/United_Methodist_Church.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/United_Methodist_Church.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/University_of_Chicago.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/University_of_Chicago.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/University_of_Chicago.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/University_of_Chicago.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/University_of_Chicago.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/University_of_Chicago.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Victoria_(Australia).html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Victoria_(Australia).html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Victoria_(Australia).html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Victoria_(Australia).html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Victoria_(Australia).html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Victoria_(Australia).html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Victoria_and_Albert_Museum.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Victoria_and_Albert_Museum.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Victoria_and_Albert_Museum.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Victoria_and_Albert_Museum.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Victoria_and_Albert_Museum.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Victoria_and_Albert_Museum.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Warsaw.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Warsaw.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Warsaw.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Warsaw.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Warsaw.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Warsaw.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Yuan_dynasty.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Yuan_dynasty.html?model=BERT (ensemble) (Google AI Language)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Yuan_dynasty.html?model=Logistic Regression Baseline (Stanford University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Yuan_dynasty.html?model=Match-LSTM with Ans-Ptr (Boundary+Ensemble) (Singapore Management University)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Yuan_dynasty.html?model=SLQA+ (ensemble) (Alibaba iDST NLP)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Yuan_dynasty.html?model=r-net+ (ensemble) (Microsoft Research Asia)&version=1.1
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/1973_oil_crisis.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/1973_oil_crisis.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/1973_oil_crisis.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/1973_oil_crisis.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Amazon_rainforest.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Amazon_rainforest.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Amazon_rainforest.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Amazon_rainforest.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Black_Death.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Black_Death.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Black_Death.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Black_Death.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Civil_disobedience.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Civil_disobedience.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Civil_disobedience.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Civil_disobedience.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Computational_complexity_theory.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Computational_complexity_theory.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Computational_complexity_theory.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Computational_complexity_theory.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Construction.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Construction.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Construction.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Construction.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Ctenophora.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Ctenophora.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Ctenophora.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Ctenophora.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Economic_inequality.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Economic_inequality.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Economic_inequality.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Economic_inequality.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/European_Union_law.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/European_Union_law.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/European_Union_law.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/European_Union_law.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Force.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Force.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Force.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Force.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/French_and_Indian_War.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/French_and_Indian_War.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/French_and_Indian_War.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/French_and_Indian_War.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Fresno,_California.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Fresno,_California.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Fresno,_California.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Fresno,_California.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Geology.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Geology.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Geology.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Geology.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Harvard_University.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Harvard_University.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Harvard_University.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Harvard_University.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Huguenot.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Huguenot.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Huguenot.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Huguenot.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Immune_system.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Immune_system.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Immune_system.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Immune_system.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Imperialism.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Imperialism.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Imperialism.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Imperialism.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Intergovernmental_Panel_on_Climate_Change.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Intergovernmental_Panel_on_Climate_Change.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Intergovernmental_Panel_on_Climate_Change.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Intergovernmental_Panel_on_Climate_Change.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Islamism.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Islamism.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Islamism.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Islamism.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Jacksonville,_Florida.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Jacksonville,_Florida.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Jacksonville,_Florida.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Jacksonville,_Florida.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Normans.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Normans.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Normans.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Normans.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Oxygen.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Oxygen.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Oxygen.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Oxygen.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Packet_switching.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Packet_switching.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Packet_switching.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Packet_switching.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Pharmacy.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Pharmacy.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Pharmacy.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Pharmacy.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Prime_number.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Prime_number.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Prime_number.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Prime_number.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Private_school.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Private_school.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Private_school.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Private_school.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Rhine.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Rhine.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Rhine.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Rhine.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Scottish_Parliament.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Scottish_Parliament.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Scottish_Parliament.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Scottish_Parliament.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Sky_(United_Kingdom).html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Sky_(United_Kingdom).html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Sky_(United_Kingdom).html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Sky_(United_Kingdom).html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Southern_California.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Southern_California.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Southern_California.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Southern_California.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Steam_engine.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Steam_engine.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Steam_engine.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Steam_engine.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/University_of_Chicago.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/University_of_Chicago.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/University_of_Chicago.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/University_of_Chicago.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Victoria_(Australia).html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Victoria_(Australia).html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Victoria_(Australia).html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Victoria_(Australia).html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Warsaw.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Warsaw.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Warsaw.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Warsaw.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Yuan_dynasty.html
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Yuan_dynasty.html?model=BERT (single model) (Google AI Language)&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Yuan_dynasty.html?model=BiDAF + Self Attention + ELMo (single model) (Allen Institute for Artificial Intelligence [modified by Stanford])&version=v2.0
+https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Yuan_dynasty.html?model=nlnet (single model) (Microsoft Research Asia)&version=v2.0
