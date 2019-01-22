@@ -1,0 +1,2 @@
+https://github.com/wolfgangmm/exist-stanford-ner/blob/master/resources/classifiers/english.all.3class.distsim.crf.ser.gz
+https://github.com/sosolimited/recon_backend/blob/master/named-entity/classifiers/english.muc.7class.distsim.crf.ser.gz
