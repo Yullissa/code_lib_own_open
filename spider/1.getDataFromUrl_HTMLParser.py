@@ -83,7 +83,7 @@ if __name__ == '__main__':
     # url = "https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/1973_oil_crisis.html"
     # url = 'https://movie.douban.com/'
     # 过滤掉1%的没有3个答案的结果
-    geturl("crawl.txt")
+    geturl("inputData/crawl.txt")
     i = 0
     for url in urls:
         title = url.split('/')[-1].split('.')[0]
